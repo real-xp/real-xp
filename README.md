@@ -1,4 +1,10 @@
-## Hi there 👋
+# Nice to meet you!
+
+I am `real-xp`, or rather also known as `XP`.
+
+I just code some fun projects and things that I like.
+
+Feel free to explore my projects and my discoveries in different fields.
 
 <!--
 **real-xp/real-xp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
